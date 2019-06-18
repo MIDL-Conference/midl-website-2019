@@ -5,38 +5,32 @@ page_class: "sponsors"
 
 # Sponsorship packages
 
-## <span class="platinum">Platinum</span>
-### <span class="amount">10,000 € (excl. VAT)</span>
+MIDL attracts about 500 world leading researchers and engineers from academia, industry and biomedical sciences working at the intersection of medical image analysis and machine learning. Sponsorship of the MIDL conference gives companies exposure to attendees from early-career scientists to key leaders in the field offering great opportunities for recruitment. Different sponsorship packages are available to help make the conference another major success.
 
-* Acknowledgment during the Opening Dinner and Closing Drinks
-* Company name and logo on the conference website and in the conference program book
-* Company flyer or documentation included in attendee welcome package
-* Booth space during the demonstration session
-* Named sponsor for Opening Dinner, Closing Drinks or conference lunches
-* Five registrations for the entire conference
+## <span class="platinum">Platinum</span>
+### <span class="amount">10,000 £ (excl. VAT)</span>
+
+* All of Gold plus two additional sponsor conference passes (five in total)
+* Named sponsor for a best paper or best poster award
+* Booth in the exhibition space co-located with posters
+* Single page advert in conference booklet
+* Optional: Double page advert in conference booklet (+ £2,000)
 
 ---
 
 ## <span class="gold">Gold</span>
-### <span class="amount">4,000 € (excl. VAT)</span>
+### <span class="amount">5,000 £ (excl. VAT)</span>
 
-* Acknowledgment during the Opening Dinner and Closing Drinks
-* Company name and logo on the conference website and in the conference program book
-* Company flyer or documentation included in attendee welcome package
-* Three registrations for the entire conference
+* All of Silver plus two additional sponsor conference passes (three in total)
+* Company flyer or giveaway in attendee welcome pack
+* Optional: Single page advert in conference booklet (+ £1,000)
+* Optional: Booth in the exhibition space co-located with posters (+ £2,000)
 
 ---
 
 ## <span class="silver">Silver</span>
-### <span class="amount">2,000 € (excl. VAT)</span>
+### <span class="amount">2,500 £ (excl. VAT)</span>
 
-* Acknowledgment during the Opening Dinner and Closing Drinks
-* Company name and logo on the conference website and in the conference program book
-* One registration for the entire conference
-
----
-
-## <span class="bronze">Bronze</span>
-### <span class="amount">500 € (excl. VAT)</span>
-
-* A warm handshake
+* Acknowledgment during the opening and closing address
+* Company name and logo on the conference website, banners and in the conference book
+* One sponsor conference pass

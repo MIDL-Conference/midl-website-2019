@@ -2,11 +2,13 @@ title: "MIDL 2019"
 date: "8 - 10 July 2019"
 theme: "midl-website-theme"
 primary-color: "#4E7268"
-content: "placeholder"
+content: "pages"
 
+email: "2019@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference/midl-website-2019"
+openreview: "MIDL.io/2019"
 show_twitter_feed: no
 show_platform_icons: yes
 
@@ -14,9 +16,6 @@ nav:
   - title: "Home"
     path: "/"
     icon: "home"
-  - title: "Call for papers"
-    path: "/call-for-papers.html"
-    icon: "bullhorn"
   - title: "Sponsorship"
     path: "/sponsorship-packages.html"
     icon: "star"
