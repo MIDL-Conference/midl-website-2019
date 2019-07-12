@@ -39,7 +39,7 @@ page_class: "sponsors"
 
 [Details of the sponsorship levels](/sponsorship-packages.html)
 
-[% .small %]
-All logos are trademarks and property of their respective owners. Microsoft is a registered trademark of Microsoft Corporation.
-IBM and the IBM logo are trademarks of International Business Machines Corp., registered in many jurisdictions worldwide.
-[% / %]
+<p class="small">
+    All logos are trademarks and property of their respective owners. Microsoft is a registered trademark of Microsoft Corporation.
+    IBM and the IBM logo are trademarks of International Business Machines Corp., registered in many jurisdictions worldwide.
+</p>
