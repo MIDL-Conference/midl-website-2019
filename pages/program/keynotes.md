@@ -7,7 +7,7 @@ page_class: "keynotes"
 
 # Keynote speakers
 
-## Prof. Michael Bronstein ![Portrait of Michael Bronstein](/keynotes/michael.jpg){: width="180" class="align-right" }
+## Prof. Michael Bronstein ![Portrait of Michael Bronstein](/keynotes/michael.jpg){: width="180" }
 ### Imperial College London
 
 #### Deep learning on graphs and manifolds: going beyond Euclidean data
@@ -18,7 +18,7 @@ In the past decade, deep learning methods have achieved unprecedented performanc
 
 ---
 
-## Prof. Muyinatu Lediju Bell ![Portrait of Muyinatu Lediju Bell](/keynotes/muyinatu.jpg){: width="180" class="align-right" }
+## Prof. Muyinatu Lediju Bell ![Portrait of Muyinatu Lediju Bell](/keynotes/muyinatu.jpg){: width="180" }
 ### Johns Hopkins University
 
 #### Ultrasound Image Formation in the Deep Learning Age
@@ -31,7 +31,7 @@ We take raw data received by our ultrasound and photoacoustic imaging systems an
 
 ---
 
-## Dr. Pearse Keane ![Portrait of Pearse Keane](/keynotes/pearse.jpg){: width="180" class="align-right" }
+## Dr. Pearse Keane ![Portrait of Pearse Keane](/keynotes/pearse.jpg){: width="180" }
 ### Moorfields Eye Hospital
 
 #### Deep Learning in Ophthalmology – Reinventing the Eye Exam!
