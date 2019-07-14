@@ -11,11 +11,11 @@ All contributions to MIDL 2019 are freely available on [OpenReview](https://open
 Full papers are also published as [Proceedings of Machine Learning Research](http://proceedings.mlr.press/v102/).
 All plenary sessions were live streamed and are now available on the [MIDL YouTube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).
 
-We are hoping to see many of you again at [MIDL 2020 in Montreal](https://2020.midl.io).
+We are hoping to see many of you at [MIDL 2020 in Montreal](https://2020.midl.io).
 
 ---
 
-#### Supporting Academic and Non-profit Organizations
+#### Supporting academic and non-profit organizations
 
 [% .institutions %]
 [![Imperial College London](/institutions/imperial.png){: width="153"}](https://www.imperial.ac.uk/)
