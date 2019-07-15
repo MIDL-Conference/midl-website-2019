@@ -13,6 +13,12 @@ All plenary sessions were live streamed and are now available on the [MIDL YouTu
 
 We are hoping to see many of you at [MIDL 2020 in Montreal](https://2020.midl.io).
 
+You can still find here the
+[call for papers](/call-for-papers.html),
+[important dates](/important-dates.html),
+[author instructions](/author-instructions.html),
+and details about [registration for the conference](/registration.html).
+
 ---
 
 #### Supporting academic and non-profit organizations
