@@ -26,7 +26,7 @@ Full papers contain well-validated applications or methodological contributions 
 ## Latex template
 
 To prepare your submission to MIDL 2019 either as a full paper or an extended abstract, please use the LaTeX style files provided at:
-https://github.com/MIDL-Conference/MIDLLatexTemplate
+[https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
 
 ## Dual submission policy
 
