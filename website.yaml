@@ -49,3 +49,6 @@ nav:
   - title: "Code of conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up"
+  - title: "Satellite event: MR(A)I"
+    path: "https://www.eventbrite.co.uk/e/mrai-tickets-62408727183"
+    icon: "satellite"
