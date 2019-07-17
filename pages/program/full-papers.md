@@ -1,10 +1,12 @@
 ---
-title: "Oral presentations"
+title: "Full papers"
 ---
 
 {% from "_macros.html" import paper %}
 
-# Oral presentations
+# Full papers
+
+Accepted full papers were presented either as long orals or spotlight presentations, and were accompanied by a poster presentation.
 
 ## Long orals (18 min + 5 min Q&A)
 

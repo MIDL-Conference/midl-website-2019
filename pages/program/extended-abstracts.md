@@ -4,12 +4,9 @@ title: "Poster presentations"
 
 {% from "_macros.html" import paper %}
 
-# Poster presentations
+# Extended abstracts
 
-In addition to the extended abstracts listed below, all [full orals and spotlight presentations](/program/orals.html) are
-also accompanied by a poster presentation.
-
-## Extended abstracts
+## Poster presentations
 
 [% .papers %]
 {{ paper('Sequential Rib Labeling and Segmentation in Chest X-Ray Using Mask R-CNN.',
