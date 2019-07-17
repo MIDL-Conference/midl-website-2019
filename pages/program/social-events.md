@@ -10,6 +10,8 @@ We are planning to organise an early morning run of about 5km on Tuesday, July 9
 
 ![Map showing route of the run](/images/hyde-park-run.jpg)
 
+![Photo of the runners](/images/hyde-park-runners.jpg)
+
 ---
 
 ## Drinks Reception & BBQ
@@ -22,6 +24,8 @@ If you want to find out more about MedIAN and how to become a member, please vis
 
 **Venue:** Queen’s Tower Rooms  
 **Time:** Monday, July 8, 17:30 – 20:00
+
+![Photo of the BBQ](/images/bbq.jpg)
 
 ---
 
@@ -36,3 +40,5 @@ Later in the evening the party will continue inside the remarkable Dome. It is a
 
 **Venue:** Victoria and Albert Museum, Cromwell Road, London, SW7 2RL (Exhibition Road Entrance)  
 **Time:** Tuesday, July 9, 18:45 – 23:00
+
+![Photo of the gala dinner](/images/gala-dinner.jpg)
