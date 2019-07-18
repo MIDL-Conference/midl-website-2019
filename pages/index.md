@@ -1,3 +1,7 @@
+---
+page_class: "sponsors"
+---
+
 <h2 class="midl">International Conference on</h2>
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="centered">London, 8 ‑ 10 July 2019</h2>
@@ -29,3 +33,42 @@ and details about [registration for the conference](/registration.html).
 [![University of Amsterdam](/institutions/uva.png){: width="183"}](https://www.uva.nl/)
 [![MedIAN](/institutions/median.png){: width="172"}](https://median.ac.uk/)
 [% / %]
+
+---
+
+#### Platinum sponsor
+
+[% .logos %]
+[![Kheiron Medical Technologies](/sponsors/kheiron.png){: width="250"}](https://www.kheironmed.com/)
+[% / %]
+
+---
+
+#### Gold sponsors
+
+[% .logos %]
+[![GE](/sponsors/ge.png){: width="60"}](https://www.gehealthcare.co.uk/)
+[![imfusion](/sponsors/imfusion.png){: width="200"}](https://www.imfusion.de/)
+[![Mirada Medical](/sponsors/mirada.png){: width="130"}](https://mirada-medical.com/)
+[![ROBOVISION](/sponsors/robovision.png){: width="190"}](https://robovision.ai/)
+[![Microsoft](/sponsors/microsoft.png){: width="200"}](https://www.microsoft.com/en-us/research/)
+[![Google AI](/sponsors/google-ai.png){: width="200"}](https://ai.google/)
+[![IBM](/sponsors/ibm.png){: width="130"}](https://www.ibm.com/)
+[% / %]
+
+---
+
+#### Silver sponsors
+
+[% .logos %]
+[![Definiens](/sponsors/definiens.png){: width="150"}](https://www.definiens.com/)
+[![HeartFlow](/sponsors/heartflow.svg){: width="210"}](https://www.heartflow.com/)
+[![promaton](/sponsors/promaton.png){: width="110"}](https://www.promaton.com/)
+[% / %]
+
+---
+
+<p class="small">
+    All logos are trademarks and property of their respective owners. Microsoft is a registered trademark of Microsoft Corporation.
+    IBM and the IBM logo are trademarks of International Business Machines Corp., registered in many jurisdictions worldwide.
+</p>
