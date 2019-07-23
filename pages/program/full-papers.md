@@ -6,7 +6,8 @@ title: "Full papers"
 
 # Full papers
 
-Accepted full papers were presented either as long orals or spotlight presentations, and were accompanied by a poster presentation.
+Accepted full papers have been published as [volume 102 of the Proceedings of Machine Learning Research](http://proceedings.mlr.press/v102/).
+At the conference, full papers were presented either as long orals or spotlight presentations, and were accompanied by a poster presentation.
 
 ## Long orals (18 min + 5 min Q&A)
 
