@@ -6,6 +6,8 @@ title: "Poster presentations"
 
 # Extended abstracts
 
+The accepted extended abstracts have been gathered in an arXiv compendium: [arXiv:1907.08612](https://arxiv.org/html/1907.08612).
+
 ## Poster presentations
 
 [% .papers %]
