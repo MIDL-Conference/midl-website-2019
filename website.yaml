@@ -4,6 +4,7 @@ theme: "midl-website-theme"
 primary-color: "#4E7268"
 content: "pages"
 
+www: "https://2019.midl.io"
 email: "2019@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
@@ -14,6 +15,9 @@ show_twitter_button: no
 show_twitter_feed: no
 num_tweets_in_feed: 3
 show_platform_icons: yes
+
+opengraph:
+  description: "International Conference on Medical Imaging with Deep Learning, London 2019"
 
 nav:
   - title: "Home"
