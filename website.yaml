@@ -18,6 +18,7 @@ show_platform_icons: yes
 
 opengraph:
   description: "International Conference on Medical Imaging with Deep Learning, London 2019"
+  image: "/images/london-with-victoria-bridge-and-big-ben.jpg"
 
 nav:
   - title: "Home"
