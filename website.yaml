@@ -61,3 +61,5 @@ nav:
   - title: "Code of conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up"
+
+cdn: "https://static.midl.io"
