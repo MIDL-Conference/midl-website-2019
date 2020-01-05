@@ -9,6 +9,8 @@ title: "Full papers"
 Accepted full papers have been published as [volume 102 of the Proceedings of Machine Learning Research](http://proceedings.mlr.press/v102/).
 At the conference, full papers were presented either as long orals or spotlight presentations, and were accompanied by a poster presentation.
 
+The original timetable can be found in the [conference book](/conference_book.pdf).
+
 ## Long orals (18 min + 5 min Q&A)
 
 [% .papers %]

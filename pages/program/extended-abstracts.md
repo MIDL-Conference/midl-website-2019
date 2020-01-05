@@ -8,6 +8,8 @@ title: "Poster presentations"
 
 The accepted extended abstracts have been gathered in an arXiv compendium: [arXiv:1907.08612](https://arxiv.org/html/1907.08612).
 
+The original timetable can be found in the [conference book](/conference_book.pdf).
+
 ## Poster presentations
 
 [% .papers %]
