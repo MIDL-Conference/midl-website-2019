@@ -11,10 +11,10 @@ title: "Important dates"
 ## Full papers
 
 [% .deadlines %]
-* **Submission deadline** Monday, 8 July – Wednesday, 10 July 2019
+* **Submission deadline** 17 December 2018, 17:00 UTC
 * **Reviews due** 28 January 2019
 * **Rebuttal period** 28 January – 10 February 2019
-* **Final decisions** Wednesday, 27 February 2019
+* **Final decisions** 27 February 2019
 [% / %]
 
 ## Abstracts
