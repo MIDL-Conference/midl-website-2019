@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c41a099a-ae37-49a9-b02d-b6520e638d5e/deploy-status)](https://app.netlify.com/sites/midl-2019/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/c41a099a-ae37-49a9-b02d-b6520e638d5e/deploy-status)
 
 # MIDL 2019 (London) website
 
