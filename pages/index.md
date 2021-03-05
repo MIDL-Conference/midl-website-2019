@@ -14,6 +14,8 @@ All contributions to MIDL 2019 are freely available on [OpenReview](https://open
 Full papers are also published as [Proceedings of Machine Learning Research](http://proceedings.mlr.press/v102/).
 All plenary sessions were live streamed and are now available on the [MIDL YouTube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).
 
+Some of the best work presented at MIDL 2019 appeared in a [Special Issue in Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis/special-issue/10KNBXB2JMW).
+
 We are hoping to see many of you at [MIDL 2020 in Montreal](https://2020.midl.io).
 
 You can still find here the
